@@ -1,0 +1,16 @@
+[
+{
+  "modid": "aob",
+  "name": "Age Of Crafters",
+  "description": "Stacks up many historical warfare and elements into a mod and then into your hands.",
+  "version": "1.5",
+  "mcversion": "${mcversion}",
+  "url": "Not Yet Implemented",
+  "updateUrl": "",
+  "authorList": ["SSilvamc", "QuackieTheDuck"],
+  "credits": "ScratchForFun, Shaqaruden, Neale Gaming and everyone who gave me ideas",
+  "logoFile": "AOBICON",
+  "screenshots": [],
+  "dependencies": []
+}
+]

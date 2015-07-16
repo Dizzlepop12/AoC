@@ -1,0 +1,6 @@
+Useful code lines:
+
+
+player.addChatMessage(new ChatComponentText()); // Adds a chat message
+
+player.getDisplayName() //Gets the player's name as a string
